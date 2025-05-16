@@ -13,4 +13,4 @@
 
 ### 2 May 2025
 
-    - Ensured the lab guide instructions and screenshots were updated accurately.
+- Ensured the lab guide instructions and screenshots were updated accurately.
