@@ -10,3 +10,7 @@
 
     - Enhanced lab guide instructions to improve clarity and usability for participants.  
     - Updated screenshots across the lab guide to reflect the latest UI changes.
+
+### 2 May 2025
+
+    - Ensured the lab guide instructions and screenshots were updated accurately.
